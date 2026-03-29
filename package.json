@@ -1,0 +1,21 @@
+{
+  "name": "dankpurple",
+  "displayName": "DankPurple",
+  "description": "A crappy dank purple vs code theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DankPurple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DankPurple-color-theme.json"
+      }
+    ]
+  }
+}
